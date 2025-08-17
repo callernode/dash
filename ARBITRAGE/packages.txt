@@ -1,0 +1,13 @@
+Manage Imports
+Packagers manage language-specific dependencies for your project. These can be imported directly from your codebase.
+tailwindcss-animate
+tsx
+tw-animate-css
+typescript
+vaul
+vite
+web3
+wouter
+ws
+zod
+zod-validation-error
